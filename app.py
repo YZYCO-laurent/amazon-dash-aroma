@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import dash
 from dash import dcc, html, dash_table
@@ -17,6 +18,7 @@ df = load_data(data_file)
 
 # Initialize app
 app = dash.Dash(__name__)
+server = app.server  # Expose server for deployment
 
 # Layout
 app.layout = html.Div([
@@ -74,4 +76,4 @@ def update_dashboard(contents):
     return fig_amount, fig_units, df.to_dict('records')
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(host='0.0.0.0', port=int(os.environ.get('PORT', 8050)), debug=True)
