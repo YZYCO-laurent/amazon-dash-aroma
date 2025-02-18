@@ -1,117 +1,601 @@
 ﻿Date,Transaction status,Transaction type,Order ID,Product Details,Total product charges,Total promotional rebates,Amazon fees,Other,Total (EUR)
-10/2/2025,Deferred,Order Payment,171-9435265-1517902,Jorge Di Profumo Maison Alhambra Eau de ...,17.24,0,-6.65,3.62,14.21
-8/2/2025,Released,Order Payment,405-3630316-0469946,Spray Yara 100ml,44.86,-1.03,-16.02,10.45,38.26
-8/2/2025,Released,Order Payment,408-0224325-1520302,Spray Khamrah Qahwa 100 Ml,32.64,0,-9.86,6.85,29.63
-8/2/2025,Deferred,Order Payment,171-7511917-7425121,Spray Khamrah Qahwa 100 Ml,28.93,0,-9.39,6.07,25.61
-7/2/2025,Released,Order Payment,171-3098857-3130702,Harem Al Sultan Eau de parfum en spray 7...,37.18,0,-8.25,17.81,46.74
-7/2/2025,Released,Order Payment,406-7393832-3812353,Spray Yara 100ml,22.55,-2.06,-8.03,6.79,19.25
-7/2/2025,Released,Order Payment,402-4467565-7004312,Spray Yara 100ml,23.12,-1.03,-8.14,5.89,19.84
-7/2/2025,Deferred,Order Payment,405-1444395-3129154,Spray Khamrah Qahwa 100 Ml,28.93,0,-9.39,0,19.54
-6/2/2025,Released,Order Payment,407-5171622-7155568,Lattafa Asad for Unisex Eau de Parfum Sp...,22.89,-2.06,-8.1,6.87,19.6
-6/2/2025,Released,Order Payment,406-3658306-0238744,Lattafa Asad for Unisex Eau de Parfum Sp...,22.78,-0.62,-8.07,5.4,19.49
-6/2/2025,Deferred,Order Payment,408-4672126-0059516,Spray Qaed Al Fursan Unlimited 90ml,13.87,0,-6.04,2.91,10.74
-6/2/2025,Released,Order Payment,405-9555829-2026710,Lattafa Asad for Unisex Eau de Parfum Sp...,23.82,-0.82,-8.26,5.82,20.56
-6/2/2025,Deferred,Order Payment,402-9845165-0640319,Jorge Di Profumo Maison Alhambra Eau de ...,17.24,0,-6.65,3.62,14.21
-6/2/2025,Deferred,Order Payment,405-7192457-6177151,Spray Khamrah Qahwa 100 Ml,28.93,-2.06,-9.39,8.13,25.61
-5/2/2025,Released,Order Payment,407-1186925-4731511,Spray Yara 100ml,23.01,0,-8.12,4.83,19.72
-5/2/2025,Released,Order Payment,171-5773290-4372336,Lattafa Asad for Unisex Eau de Parfum Sp...,24.17,-2.06,-8.33,7.14,20.92
-5/2/2025,Released,Order Payment,405-6331547-0298733,Spray Khamrah Qahwa 100 Ml,32.64,0,-9.86,6.85,29.63
-4/2/2025,Released,Order Payment,403-8179280-4635514,Spray Khamrah Qahwa 100 Ml,32.64,-2.06,-9.86,8.91,29.63
-4/2/2025,Released,Order Payment,408-5831826-7097917,Spray Yara 100ml,22.89,0,-8.1,4.81,19.6
-4/2/2025,Released,Order Payment,405-7978583-3467521,Spray Yara 100ml,23.93,0,-8.28,5.03,20.68
-4/2/2025,Deferred,Order Payment,402-9659720-1307542,Spray Qaed Al Fursan Unlimited 90ml,15.38,-1.02,-6.31,4.25,12.3
-4/2/2025,Deferred,Order Payment,402-8613303-6684331,Fragrance World Cherry Buzz,19.49,-2.06,-7.68,6.15,15.9
-4/2/2025,Released,Order Payment,403-8407275-1455527,Lattafa Asad for Unisex Eau de Parfum Sp...,22.55,0,-8.03,4.73,19.25
-4/2/2025,Deferred,Order Payment,408-5501331-3209112,Spray Khamrah Qahwa 100 Ml,31.4,-1.23,-9.84,7.82,28.15
-3/2/2025,Deferred,Order Payment,408-0995224-4144361,Spray Qaed Al Fursan Unlimited 90ml,15.38,0,-6.31,3.23,12.3
-3/2/2025,Deferred,Order Payment,405-4952755-8416352,Spray Khamrah Qahwa 100 Ml,31.4,0,-9.84,6.59,28.15
-3/2/2025,Deferred,Order Payment,402-1227441-4495510,Paris Corner Rifaaqat Eau de parfum unis...,28.92,0,-6.75,16.07,38.24
-3/2/2025,Deferred,Order Payment,403-4000172-4335501,Spray Yara 100ml,22.79,0,-8.28,4.78,19.29
-3/2/2025,Deferred,Order Payment,171-0776039-3403536,Spray Khamrah Qahwa 100 Ml,31.4,0,-9.84,6.59,28.15
-3/2/2025,Deferred,Order Payment,407-2093913-9257962,Spray Yara 100ml,24.19,-2.06,-8.53,7.14,20.74
-2/2/2025,Released,Order Payment,405-6846243-0706746,Spray Khamrah Qahwa 100 Ml,32.64,-0.41,-9.86,7.26,29.63
-2/2/2025,Released,Refund,403-4965743-9613919,Spray Yara 100ml,-23.72,0,3.45,-4.98,-25.25
-1/2/2025,Deferred,Order Payment,405-0713333-5432358,Spray Yara 100ml,25.31,0,-8.73,5.31,21.89
-1/2/2025,Released,Order Payment,402-9295755-7551528,Opulent Musk EDP 100ml Parfum Mixte Parf...,18.18,-1.02,-6.7,4.84,15.3
-31/01/2025,Released,Order Payment,408-3279477-6866728,Spray Yara 100ml,23.93,0,-8.28,5.03,20.68
-31/01/2025,Released,Order Payment,408-7551715-5954734,Lattafa Asad for Unisex Eau de Parfum Sp...,22.78,-2.06,-8.07,6.84,19.49
-31/01/2025,Released,Order Payment,404-9832377-0456360,Lattafa Asdaaf Ameerat Al Arab Prive Ros...,14.88,0,-4.2,13.12,23.8
-31/01/2025,Released,Order Payment,404-8256687-3297967,Spray Khamrah Qahwa 100 Ml,32.64,0,-9.86,6.85,29.63
-31/01/2025,Released,Order Payment,407-7233992-8668336,Spray Khamrah Qahwa 100 Ml,32.64,0,-9.86,6.85,29.63
-31/01/2025,Released,Order Payment,403-4965743-9613919,Spray Yara 100ml,23.72,0,-8.25,4.98,20.45
-31/01/2025,Deferred,Order Payment,404-3657111-4640315,Spray Yara 100ml,23.49,-1.03,-8.2,5.96,20.22
-30/01/2025,Released,Order Payment,408-3276866-1356312,Spray Khamrah Qahwa 100 Ml,32.64,0,-9.86,6.85,29.63
-30/01/2025,Released,Order Payment,407-4618811-2073948,Lattafa Asad for Unisex Eau de Parfum Sp...,22.31,0,-7.99,4.69,19.01
-30/01/2025,Released,Order Payment,171-4427384-9960367,Spray Yara 100ml,22.79,0,-8.08,4.79,19.5
-29/01/2025,Released,Order Payment,407-4675965-7943568,Spray Khamrah Qahwa 100 Ml,32.64,-2.06,-9.86,8.91,29.63
-28/01/2025,Released,Order Payment,408-9710104-6448336,Spray Yara 100ml,22.56,-2.06,-8.04,6.8,19.26
-28/01/2025,Released,Order Payment,402-5423237-2317952,Lattafa Asad for Unisex Eau de Parfum Sp...,26.36,-2.06,-8.73,7.6,23.17
-28/01/2025,Released,Order Payment,171-3830859-4070706,Spray Yara 100ml,23.37,-2.06,-8.18,6.97,20.1
-28/01/2025,Released,Order Payment,407-2681130-1206753,Fragrance World Amber & Neroli - Eau de ...,23.2,-2.06,-8.15,6.93,19.92
-27/01/2025,Released,Order Payment,171-1178226-3594731,Spray Yara 100ml,23.14,0,-8.14,4.86,19.86
-27/01/2025,Released,Order Payment,404-3370423-0166719,Lattafa Asad for Unisex Eau de Parfum Sp...,24.92,0,-8.46,5.23,21.69
-27/01/2025,Released,Order Payment,404-2862845-5665913,Lattafa Asad for Unisex Eau de Parfum Sp...,23.59,-1.02,-8.22,5.97,20.32
-27/01/2025,Released,Order Payment,406-8649353-2532368,Spray Khamrah Qahwa 100 Ml,32.64,0,-9.86,6.85,29.63
-25/01/2025,Released,Order Payment,403-0692949-8257158,Lattafa Asad for Unisex Eau de Parfum Sp...,22.31,-2.06,-7.99,6.75,19.01
-24/01/2025,Released,Order Payment,408-9736879-7183558,Lattafa Al Qiam Gold Eau de parfum 100 m...,31.85,0,-9.07,6.69,29.47
-24/01/2025,Released,Order Payment,406-4577364-5881109,Spray Yara 100ml,23.24,0,-8.16,4.88,19.96
-24/01/2025,Released,Order Payment,403-3680957-3103515,Fragrance World Cherry Buzz,19.27,-0.69,-7.44,4.74,15.88
-24/01/2025,Released,Order Payment,407-3171937-4369164,Spray Yara 100ml,22.31,0,-7.99,4.69,19.01
-22/01/2025,Released,Order Payment,406-2596601-7409920,Lattafa Asad for Unisex Eau de Parfum Sp...,22.31,0,-7.99,4.69,19.01
-22/01/2025,Released,Order Payment,403-7585469-8307510,Spray Yara 100ml,22.56,0,-8.04,4.74,19.26
-20/01/2025,Released,Order Payment,405-8997484-1727565,Lattafa Asad for Unisex Eau de Parfum Sp...,23.82,0,-8.26,5,20.56
-20/01/2025,Released,Order Payment,403-3686242-0361940,Spray Yara 100ml,24.07,0,-9.36,6.3,21.01
-20/01/2025,Released,Order Payment,407-1818120-4570741,Lattafa Al Qiam Gold Eau de parfum 100 m...,31.85,0,-9.07,6.69,29.47
-19/01/2025,Released,Order Payment,406-2354106-5883511,Exclusif Safran 100 ml,19.98,-0.69,-7.57,4.89,16.61
-18/01/2025,Released,Order Payment,408-1195289-3515507,Spray Khamrah Qahwa 100 Ml,32.64,0,-9.86,6.85,29.63
-18/01/2025,Released,Order Payment,405-6865718-4981929,Lattafa Asad for Unisex Eau de Parfum Sp...,45.56,0,-16.14,9.56,38.98
-18/01/2025,Released,Order Payment,407-2676509-6766762,Exclusif Safran 100 ml,19.98,-0.52,-7.57,4.72,16.61
-18/01/2025,Released,Order Payment,171-1089973-7013950,Lattafa Asad for Unisex Eau de Parfum Sp...,23.47,0,-8.2,4.93,20.2
-18/01/2025,Released,Order Payment,171-4272820-4437149,Lattafa Asad for Unisex Eau de Parfum Sp...,22.66,-1.24,-8.05,6,19.37
-18/01/2025,Released,Order Payment,407-1562728-0985961,Spray Yara 100ml,23.02,0,-8.12,4.84,19.74
-17/01/2025,Released,Order Payment,404-0023588-6473131,Spray Yara 100ml,24.19,0,-8.33,5.08,20.94
-17/01/2025,Released,Order Payment,403-6237864-9085955,Spray Khamrah Qahwa 100 Ml,32.64,-2.06,-9.86,8.91,29.63
-17/01/2025,Released,Order Payment,171-7385985-7208312,Lattafa Asad for Unisex Eau de Parfum Sp...,23.12,0,-8.14,4.86,19.84
-17/01/2025,Released,Order Payment,402-1617382-5955534,Spray Khamrah Qahwa 100 Ml,32.64,0,-9.86,6.85,29.63
-17/01/2025,Released,Order Payment,402-0113175-8810742,Fragrance World Inimitable Eau de parfum...,35.5,0,-10.38,7.46,32.58
-17/01/2025,Released,Order Payment,406-1463285-5439552,Spray Khamrah Qahwa 100 Ml,32.64,0,-9.86,6.85,29.63
-17/01/2025,Released,Order Payment,407-9692460-9908367,Lattafa Asad for Unisex Eau de Parfum Sp...,23.36,0,-8.18,4.9,20.08
-17/01/2025,Released,Order Payment,408-0814656-4573123,Spray Yara 100ml,24.81,-0.69,-8.44,5.9,21.58
-16/01/2025,Released,Order Payment,403-5583533-6120331,Spray Khamrah Qahwa 100 Ml,32.64,-2.06,-9.86,8.91,29.63
-16/01/2025,Released,Order Payment,171-4783358-4412318,Lattafa Al Qiam Gold Eau de parfum 100 m...,31.85,-2.06,-9.07,8.75,29.47
-16/01/2025,Released,Order Payment,406-1317587-9984306,Lattafa Asad for Unisex Eau de Parfum Sp...,22.55,-2.06,-8.03,6.79,19.25
-16/01/2025,Released,Order Payment,404-7835006-3503563,Spray Khamrah Qahwa 100 Ml,32.64,-2.06,-9.86,8.91,29.63
-16/01/2025,Released,Order Payment,404-9975099-7442733,Lattafa Asad for Unisex Eau de Parfum Sp...,22.55,0,-8.03,4.73,19.25
-16/01/2025,Released,Order Payment,404-3179089-3467544,Spray Yara 100ml,23.37,0,-8.18,4.91,20.1
-15/01/2025,Released,Order Payment,403-1601017-7727536,Lattafa Asad for Unisex Eau de Parfum Sp...,23.01,-2.06,-8.12,6.89,19.72
-15/01/2025,Released,Order Payment,405-6436852-8877102,Fragrance World Cherry Buzz,19.27,-2.06,-7.44,6.11,15.88
-15/01/2025,Released,Order Payment,405-5190116-4737142,Spray Khamrah Qahwa 100 Ml,32.64,0,-9.86,6.85,29.63
-15/01/2025,Released,Order Payment,406-2866518-8040310,Spray Khamrah Qahwa 100 Ml,32.64,-0.59,-9.86,0.59,22.78
-14/01/2025,Released,Order Payment,407-9843162-5464311,Spray Yara 100ml,23.83,0,-8.27,5.01,20.57
-13/01/2025,Released,Order Payment,404-4086429-0070739,Lattafa Asad for Unisex Eau de Parfum Sp...,23.36,-1.24,-8.18,6.14,20.08
-13/01/2025,Released,Order Payment,406-0966703-6777166,Paris Corner Taskeen Eau de parfum Caram...,33.05,-1.03,-9.94,7.97,30.05
-12/1/2025,Released,Order Payment,404-5881844-7256300,Fragrance World Vanille En Tobacco by Fr...,33.05,-2.06,-9.94,9,30.05
-11/1/2025,Released,Order Payment,407-3612400-7209965,Spray Yara 100ml,22.55,0,-8.03,4.73,19.25
-11/1/2025,Released,Order Payment,402-8379186-7080335,Spray Yara 100ml,23.12,0,-8.14,4.86,19.84
-11/1/2025,Released,Order Payment,404-7429757-5185120,Spray Yara 100ml,22.89,0,-9.15,6.06,19.8
-11/1/2025,Released,Order Payment,403-9468252-4974766,Fragrance World Cherry Buzz,19.27,-2.06,-7.44,6.11,15.88
-11/1/2025,Released,Order Payment,402-5340368-9057115,Spray Yara 100ml,22.31,0,-7.99,4.69,19.01
-10/1/2025,Released,Refund,402-7648811-5725916,Spray Yara 100ml,-22.55,2.06,3.27,-6.79,-24.01
-10/1/2025,Released,Order Payment,408-3221277-2479531,Spray Khamrah Qahwa 100 Ml,32.64,-2.06,-9.86,8.91,29.63
-10/1/2025,Released,Order Payment,407-0174461-1437954,Spray Khamrah 100ml,35.83,0,-10.44,0,25.39
-10/1/2025,Released,Order Payment,402-7648811-5725916,Spray Yara 100ml,22.55,-2.06,-8.03,6.79,19.25
-9/1/2025,Released,Order Payment,405-2942164-2211569,Spray Khamrah 100ml,35.83,0,-10.44,7.53,32.92
-9/1/2025,Released,Order Payment,171-4392038-5294708,Lattafa Asad for Unisex Eau de Parfum Sp...,22.31,-0.62,-7.99,5.31,19.01
-9/1/2025,Released,Order Payment,403-2421092-6515516,Spray Khamrah 100ml,35.83,0,-10.44,7.53,32.92
-8/1/2025,Released,Order Payment,408-1859250-6872322,Spray Khamrah 100ml,35.83,0,-10.44,7.53,32.92
-7/1/2025,Released,Order Payment,404-0441262-9642742,Spray Khamrah 100ml,35.83,0,-10.44,7.53,32.92
-7/1/2025,Released,Order Payment,402-7339440-3113110,Spray Khamrah 100ml,35.83,-1.23,-10.44,8.76,32.92
-7/1/2025,Released,Order Payment,408-8652888-1316338,Spray Khamrah 100ml,35.83,0,-10.44,7.53,32.92
-7/1/2025,Released,Order Payment,407-8136285-6533962,Spray Khamrah 100ml,35.83,0,-10.44,7.53,32.92
-7/1/2025,Released,Order Payment,407-9113534-8703507,Spray Khamrah Qahwa 100 Ml,32.64,-2.06,-9.86,8.91,29.63
-7/1/2025,Released,Order Payment,404-4199940-7517120,Spray Khamrah 100ml,35.83,0,-10.44,7.53,32.92
-7/1/2025,Released,Order Payment,405-0812607-3228340,Spray Khamrah Qahwa 100 Ml,32.64,-2.06,-9.86,8.91,29.63
-7/1/2025,Released,Order Payment,407-8635683-6045167,Spray Khamrah 100ml,35.83,0,-10.44,7.53,32.92
-6/1/2025,Released,Order Payment,171-9877186-4080348,Spray Yara 100ml,23.82,-2.06,-8.26,7.06,20.56
-5/1/2025,Released,Order Payment,402-1528786-8391500,Spray Yara 100ml,25.04,0,-8.49,5.26,21.81
-4/1/2025,Released,Order Payment,404-5833423-6121103,Spray Yara 100ml,23.14,0,-8.14,4.86,19.86
+16/02/2025,Released,Order Payment,404-8419370-9945960,Fragrance World Cherry Incense Acqua Pro...,20.49,-1.09,-8.88,5.6,16.12
+16/02/2025,Released,Order Payment,405-9704747-9672333,Spray Yara 100ml,24.84,0,-9.95,5.47,20.36
+16/02/2025,Released,Order Payment,404-1651582-4306703,Spray Yara 100ml,24.82,0,-9.94,5.46,20.34
+16/02/2025,Released,Order Payment,405-2034600-5469110,Spray Yara 100ml,24.78,0,-13.28,9.44,20.94
+16/02/2025,Released,Order Payment,408-0708693-8001964,Spray Yara 100ml,24.78,-1.64,-9.93,7.09,20.3
+16/02/2025,Released,Order Payment,404-0356985-0289903,Spray Yara 100ml,24.8,-1.64,-9.94,7.09,20.31
+16/02/2025,Released,Order Payment,404-5454315-8076325,Spray Yara 100ml,26.34,0,-10.23,5.79,21.9
+16/02/2025,Released,Order Payment,405-3808480-0693115,Spray Yara 100ml,24.81,0,-9.94,5.46,20.33
+16/02/2025,Released,Order Payment,405-9773211-7909959,Spray Yara 100ml,24.55,0,-9.89,5.4,20.06
+16/02/2025,Released,Order Payment,408-1241613-2173130,Fragrance World Cherry Incense Acqua Pro...,20.49,0,-9.14,4.51,15.86
+16/02/2025,Released,Order Payment,402-6645444-3476342,Spray Yara 100ml,24.18,0,-9.83,5.32,19.67
+15/02/2025,Deferred,Refund,408-7460325-1696301,Ramadan24 Eternal Oud Eau de Parfum Latt...,-23.77,0,3.57,-5.23,-25.43
+15/02/2025,Released,Order Payment,407-5964894-9633169,Spray Mohra 100ml,18.23,0,-8.72,4.01,13.52
+15/02/2025,Released,Order Payment,402-7645801-9833920,Vaniglia Tobacco by Fragrance World for ...,24.02,0,-9.54,5.28,19.76
+15/02/2025,Released,Order Payment,408-7914178-7510743,Spray Yara 100ml,24.67,0,-9.92,5.43,20.18
+15/02/2025,Released,Order Payment,407-9088170-6672350,Spray Yara 100ml,24.8,0,-9.94,5.45,20.31
+15/02/2025,Released,Order Payment,406-5903073-0077150,Spray Yara 100ml,24.8,-1.64,-9.94,7.1,20.32
+15/02/2025,Deferred,Order Payment,403-9625248-8593937,Spray Yara 100ml,24.89,0,-9.96,5.48,20.41
+15/02/2025,Released,Order Payment,404-4727159-5774718,Spray Yara 100ml,24.83,0,-9.94,5.46,20.35
+15/02/2025,Released,Refund,171-0576877-7972321,Spray Yara 100ml,-24.18,0,3.63,-5.32,-25.87
+15/02/2025,Deferred,Order Payment,405-3697639-2836361,Spray Mohra 100ml,18.15,0,-8.7,3.99,13.44
+15/02/2025,Deferred,Order Payment,171-0694130-1707520,Fragrance World Cherry Incense Acqua Pro...,20.49,0,-9.14,4.51,15.86
+15/02/2025,Deferred,Order Payment,405-2845326-1498704,Oud Wonder - Eau de Parfum - By Fragranc...,18.03,0,-12.03,7.42,13.42
+15/02/2025,Deferred,Order Payment,406-7200660-8457903,Oud Wonder - Eau de Parfum - By Fragranc...,18.03,0,-8.68,3.97,13.32
+15/02/2025,Released,Refund,404-3609773-2917939,Fragrance World Cherry Buzz,-20.66,0,3.1,-4.54,-22.1
+15/02/2025,Released,Order Payment,404-3609773-2917939,Fragrance World Cherry Buzz,20.66,0,-3.86,4.54,21.34
+15/02/2025,Released,Order Payment,404-6087138-2764333,Spray Yara 100ml,24.79,0,-9.94,5.45,20.3
+15/02/2025,Released,Order Payment,404-9809848-3095512,Spray Yara 100ml,26.34,0,-10.23,5.79,21.9
+15/02/2025,Released,Order Payment,407-6924164-9827526,Lattafa Sehr Eau de Parfum Spray for Uni...,31.14,0,-11.42,6.85,26.57
+15/02/2025,Released,Order Payment,405-9025273-3417957,Ramadan24 Eternal Oud Eau de Parfum Latt...,39.34,0,-12.39,8.65,35.6
+15/02/2025,Released,Order Payment,404-5054908-2380305,Spray Yara 100ml,26.36,0,-13.58,9.79,22.57
+15/02/2025,Released,Order Payment,171-5583597-2097919,Spray Yara 100ml,26.17,0,-9.94,5.76,21.99
+15/02/2025,Released,Order Payment,404-4261283-8138751,Spray Yara 100ml,25.95,0,-10.16,5.71,21.5
+15/02/2025,Released,Order Payment,407-8526640-0829169,Spray Yara 100ml,25.1,0,-9.99,5.52,20.63
+14/02/2025,Released,Order Payment,404-5605041-4934747,Spray Yara 100ml,26.35,0,-10.23,5.8,21.92
+14/02/2025,Released,Order Payment,171-5821667-8917165,Fragrance World Cherry Incense Acqua Pro...,25.73,0,-9.85,5.66,21.54
+14/02/2025,Released,Order Payment,407-4892859-6451521,Fragrance World Cherry Incense Acqua Pro...,20.49,0,-9.14,4.51,15.86
+14/02/2025,Released,Order Payment,402-1723752-0602734,Spray Yara 100ml,26.34,0,-10.23,5.79,21.9
+14/02/2025,Released,Order Payment,171-7247840-6380339,Spray Yara 100ml,24.81,0,-9.94,5.46,20.33
+14/02/2025,Released,Order Payment,406-7699742-9859500,Spray Yara 100ml,24.55,0,-9.89,5.4,20.06
+14/02/2025,Released,Order Payment,405-7646531-3258742,Spray Yara 100ml,26.47,0,-10.25,5.82,22.04
+14/02/2025,Released,Order Payment,402-4968586-1636341,Spray Yara 100ml,25.03,0,-9.98,5.51,20.56
+14/02/2025,Released,Order Payment,403-3750127-9898762,Spray Yara 100ml,24.81,0,-9.94,5.46,20.33
+14/02/2025,Deferred,Order Payment,403-8622881-3683552,Lattafa Ansaam Silver EDP U 100 ml,31.5,0,-10.93,6.93,27.5
+14/02/2025,Deferred,Order Payment,405-0688185-9496348,"Khamrah Naysah, Eau de parfum, 100 ml",23.77,0,-6.12,16.23,33.88
+14/02/2025,Deferred,Order Payment,407-0165372-7105973,HAREEM AL SULTAN 75 ML EDP SPRAY,21.31,0,-5.66,15.69,31.34
+14/02/2025,Deferred,Order Payment,405-8953156-2577123,"Khamrah Naysah, Eau de parfum, 100 ml",23.77,0,-6.12,16.23,33.88
+14/02/2025,Deferred,Order Payment,408-5146737-0173905,HAREEM AL SULTAN 75 ML EDP SPRAY,21.31,0,-5.66,15.69,31.34
+14/02/2025,Deferred,Order Payment,406-2146395-8431524,Spray Ajwaa 90ml,27.05,0,-10.1,5.95,22.9
+14/02/2025,Released,Order Payment,407-7650301-4158743,Spray Yara 100ml,26.34,0,-10.23,5.8,21.91
+14/02/2025,Released,Refund,402-2161532-7331561,Spray Yara 100ml,-24.67,0,3.71,-5.43,-26.39
+14/02/2025,Released,Order Payment,408-6269502-6493164,Spray Yara 100ml,26.61,0,-10.02,5.86,22.45
+14/02/2025,Released,Order Payment,171-4535872-2317964,Spray Yara 100ml,26.14,-1.63,-10.19,7.38,21.7
+14/02/2025,Released,Order Payment,405-3760969-2163504,Spray Yara 100ml,26.47,-0.23,-9.99,6.05,22.3
+14/02/2025,Released,Order Payment,408-7425612-1161931,Spray Yara 100ml,26.32,0,-10.23,5.79,21.88
+14/02/2025,Released,Order Payment,171-9877025-1852333,Spray Yara 100ml,52.66,0,-20.45,11.58,43.79
+14/02/2025,Released,Order Payment,407-5212238-1017963,Lattafa Ansaam Silver EDP U 100 ml,31.96,0,-11.02,7.03,27.97
+14/02/2025,Released,Order Payment,408-1593510-1777114,Paris Corner Taskeen Caramel Cascade Eau...,32.78,-3.27,-14.93,10.48,25.06
+14/02/2025,Released,Order Payment,171-0576877-7972321,Spray Yara 100ml,24.18,0,-9.83,5.32,19.67
+13/02/2025,Released,Order Payment,171-8225718-0888307,Spray Yara 100ml,25.97,0,-10.16,5.71,21.52
+13/02/2025,Released,Order Payment,407-8806344-6497962,Spray Yara 100ml,24.8,0,-9.94,5.46,20.32
+13/02/2025,Released,Refund,406-3644344-3330738,Spray Yara 100ml,-26.66,0,4,-5.87,-28.53
+13/02/2025,Released,Order Payment,407-3809934-8424363,Spray Yara 100ml,26.23,0,-10.21,5.77,21.79
+13/02/2025,Released,Order Payment,408-9825698-1991553,Spray Yara 100ml,25.17,0,-10.01,5.54,20.7
+13/02/2025,Released,Order Payment,171-7201755-8137103,Spray Yara 100ml,26.17,-0.7,-10.2,6.46,21.73
+13/02/2025,Released,Order Payment,408-9728515-3033149,Spray Yara 100ml,25.78,-0.81,-9.86,6.48,21.59
+13/02/2025,Released,Order Payment,406-0563930-9984336,Spray Yara 100ml,26.43,0,-10.25,5.82,22
+13/02/2025,Released,Order Payment,403-1792892-6596361,Spray Yara 100ml,26.27,0,-10.22,5.78,21.83
+13/02/2025,Released,Order Payment,406-3644344-3330738,Spray Yara 100ml,26.66,0,-10.29,5.87,22.24
+13/02/2025,Released,Order Payment,403-4186008-7463560,"Eau de Parfum Opulent Musk, profumo unis...",37.7,-1.64,-16.84,9.94,29.16
+13/02/2025,Released,Order Payment,408-7910279-6909121,Spray Yara 100ml,25.3,0,-10.03,5.56,20.83
+13/02/2025,Released,Order Payment,407-9864329-4448369,Spray Yara 100ml,26.14,0,-10.19,5.75,21.7
+13/02/2025,Released,Order Payment,405-9234547-5938712,Spray Yara 100ml,26.33,0,-13.58,9.78,22.53
+13/02/2025,Released,Order Payment,406-6899848-8669945,Spray Yara 100ml,26.07,0,-9.92,5.74,21.89
+13/02/2025,Released,Order Payment,405-3599026-6095515,Spray Yara 100ml,26.34,0,-10.23,5.79,21.9
+13/02/2025,Released,Order Payment,171-5992560-5681924,Spray Yara 100ml,51.56,-3.27,-20.25,14.61,42.65
+13/02/2025,Released,Order Payment,406-6293368-2646747,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+13/02/2025,Released,Order Payment,406-7430138-1033122,Spray Yara 100ml,26.48,0,-10.26,5.82,22.04
+13/02/2025,Released,Order Payment,404-8724190-2037926,Spray Qaaed 100 Ml,18.03,0,-4.52,10.93,24.44
+13/02/2025,Released,Order Payment,408-8990252-8758704,Spray Yara 100ml,24.79,0,-9.94,5.45,20.3
+13/02/2025,Deferred,Order Payment,171-8062083-3082702,Lattafa Profumo Personale Spray 100 ml M...,31.3,0,-11.15,6.89,27.04
+13/02/2025,Deferred,Order Payment,403-2881353-5760363,Fragrance World Apex - Profumo Arabic Ea...,42.2,0,-13.18,9.29,38.31
+13/02/2025,Released,Order Payment,402-1937469-5744307,Spray Yara 100ml,26.35,0,-10.23,5.8,21.92
+13/02/2025,Released,Order Payment,408-3123639-9681912,Spray Yara 100ml,26.14,-0.55,-9.93,6.3,21.96
+13/02/2025,Deferred,Order Payment,405-5536519-7343540,Spray Yara 100ml,24.18,0,-16.91,14.47,21.74
+13/02/2025,Deferred,Order Payment,402-1124429-4815517,Spray Yara 100ml,25.77,0,-10.12,5.67,21.32
+13/02/2025,Deferred,Order Payment,407-5376572-5031531,Spray Shaheen Silver 100ml,24.59,0,-8.86,5.41,21.14
+13/02/2025,Deferred,Order Payment,407-3994508-1783506,Spray Mohra 100ml,18.15,0,-8.7,3.99,13.44
+13/02/2025,Deferred,Order Payment,406-5513875-6068361,Fragrance World Divin Asylum - Acqua pro...,23.77,0,-6.12,16.23,33.88
+13/02/2025,Deferred,Order Payment,403-8219369-8174709,Spray Gharam 100ml,26.23,0,-6.58,16.77,36.42
+13/02/2025,Deferred,Order Payment,404-5706954-5465933,Fragrance World Cherry Incense Acqua Pro...,20.49,0,-12.12,8.5,16.87
+13/02/2025,Deferred,Order Payment,404-3915797-8350747,Ramadan24 Eternal Oud Eau de Parfum Latt...,23.77,-1.09,-9.49,6.32,19.51
+13/02/2025,Deferred,Order Payment,407-9252672-4943537,Fragrance World Cherry Incense Acqua Pro...,40.98,-3.27,-17.75,12.29,32.25
+13/02/2025,Deferred,Order Payment,405-8742464-7676346,Ramadan24 Eternal Oud Eau de Parfum Latt...,23.77,-1.09,-9.49,6.32,19.51
+13/02/2025,Deferred,Order Payment,407-9142031-6889904,Fragrance World Cherry Incense Acqua Pro...,20.49,0,-8.88,4.51,16.12
+13/02/2025,Released,Order Payment,171-0674970-4505965,Spray Yara 100ml,26.2,0,-10.21,5.77,21.76
+13/02/2025,Released,Order Payment,403-9130900-3341962,Spray Yara 100ml,24.8,-1.64,-9.68,7.09,20.57
+13/02/2025,Released,Order Payment,171-4085711-5900307,Spray Yara 100ml,24.79,0,-9.94,5.45,20.3
+13/02/2025,Released,Order Payment,405-1831183-6325105,Spray Yara 100ml,24.8,0,-9.94,5.46,20.32
+13/02/2025,Released,Order Payment,405-8751378-5427556,Spray Yara 100ml,24.8,-1.63,-9.94,7.08,20.31
+13/02/2025,Released,Order Payment,403-7212490-1221144,Spray Yara 100ml,25.24,0,-9.76,5.55,21.03
+13/02/2025,Released,Order Payment,171-0566791-2058708,Spray Yara 100ml,25.16,0,-13.35,9.52,21.33
+13/02/2025,Released,Order Payment,404-5002754-6934708,Spray Yara 100ml,24.77,0,-9.67,5.45,20.55
+12/2/2025,Released,Order Payment,404-6426375-4450736,Spray Yara 100ml,25.81,0,-10.12,5.68,21.37
+12/2/2025,Released,Order Payment,408-5498661-6589156,Spray Yara 100ml,25.16,0,-10,5.53,20.69
+12/2/2025,Released,Order Payment,407-9071150-3198724,Spray Yara 100ml,26.13,0,-10.19,5.75,21.69
+12/2/2025,Released,Order Payment,171-3832343-8423520,Ramadan24 Eternal Oud Eau de Parfum Latt...,39.34,-3.27,-12.39,11.92,35.6
+12/2/2025,Released,Order Payment,402-2459477-5814725,Spray Yara 100ml,25.14,0,-9.74,5.53,20.93
+12/2/2025,Deferred,Order Payment,404-6772796-1137122,Spray Asad 100 Ml,24.58,0,-11.08,6.44,19.94
+12/2/2025,Deferred,Order Payment,405-1246814-9694711,Spray Mohra 100ml,18.15,0,-8.7,3.99,13.44
+12/2/2025,Released,Order Payment,406-7094092-8321920,Spray Yara 100ml,24.8,0,-9.68,5.45,20.57
+12/2/2025,Released,Order Payment,408-9956969-8905104,Spray Yara 100ml,25.91,0,-10.14,5.7,21.47
+12/2/2025,Released,Order Payment,404-2351443-5257936,Spray Yara 100ml,24.8,0,-9.68,5.45,20.57
+12/2/2025,Released,Order Payment,403-9779883-8525133,Spray Yara 100ml,24.78,0,-13.28,9.44,20.94
+12/2/2025,Released,Order Payment,404-7209445-3190764,Spray Yara 100ml,24.79,0,-9.68,5.45,20.56
+12/2/2025,Deferred,Order Payment,171-3195180-4279540,Fragrance World Apex - Profumo Arabic Ea...,41.99,-3.27,-13.14,12.51,38.09
+12/2/2025,Deferred,Order Payment,406-0215555-1062770,Lattafa Profumo Personale Spray 100 ml M...,31.3,0,-11.15,6.89,27.04
+12/2/2025,Deferred,Order Payment,171-7393071-7140350,Fragrance World Cherry Incense Acqua Pro...,20.49,0,-8.88,4.51,16.12
+12/2/2025,Deferred,Order Payment,403-7486152-7671565,Spray Yara 100ml,24.18,-1.63,-9.83,6.95,19.67
+12/2/2025,Deferred,Order Payment,406-5082795-9669942,Ramadan24 Eternal Oud Eau de Parfum Latt...,23.77,0,-9.49,5.23,19.51
+12/2/2025,Deferred,Order Payment,404-6473092-1109916,Fragrance World Cherry Incense Acqua Pro...,20.49,0,-10.51,6.51,16.49
+12/2/2025,Deferred,Order Payment,403-5163024-8861126,Fragrance World Cherry Incense Acqua Pro...,20.49,-1.63,-8.88,6.14,16.12
+12/2/2025,Deferred,Order Payment,171-3716033-2244354,Ramadan24 Eternal Oud Eau de Parfum Latt...,23.77,0,-9.49,5.23,19.51
+12/2/2025,Deferred,Order Payment,407-2934341-2261109,Spray Shaheen Silver 100ml,24.59,0,-8.86,5.41,21.14
+12/2/2025,Deferred,Order Payment,408-3785309-3842724,Ramadan24 Eternal Oud Eau de Parfum Latt...,39.33,0,-12.39,8.65,35.59
+12/2/2025,Deferred,Order Payment,405-0703956-3529928,Spray Shaheen Silver 100ml,24.59,0,-8.86,5.41,21.14
+12/2/2025,Deferred,Order Payment,408-7460325-1696301,Ramadan24 Eternal Oud Eau de Parfum Latt...,23.77,0,-9.49,5.23,19.51
+12/2/2025,Deferred,Order Payment,402-4395102-0386765,Ramadan24 Eternal Oud Eau de Parfum Latt...,23.77,0,-9.49,5.23,19.51
+12/2/2025,Deferred,Order Payment,404-8228131-7660362,Lattafa Sehr Eau de Parfum Spray for Uni...,31.07,-3.27,-11.41,10.1,26.49
+12/2/2025,Deferred,Order Payment,405-5427446-5425900,Spray Khamrah Qahwa 100 Ml,25.41,0,-5.9,12.33,31.84
+12/2/2025,Deferred,Order Payment,406-0143658-2671524,Fragrance World Divin Asylum - Acqua pro...,23.77,0,-6.12,16.23,33.88
+12/2/2025,Deferred,Order Payment,171-4028123-8159559,Ramadan24 Eternal Oud Eau de Parfum Latt...,23.77,0,-9.49,5.23,19.51
+12/2/2025,Deferred,Order Payment,407-1029270-9329165,Ramadan24 Eternal Oud Eau de Parfum Latt...,23.77,0,-9.49,5.23,19.51
+12/2/2025,Deferred,Order Payment,408-7926802-6840310,Fragrance World Cherry Incense Acqua Pro...,20.49,-1.64,-8.88,6.15,16.12
+12/2/2025,Deferred,Order Payment,403-3877929-4824340,Lattafa Profumi Al Qiam Gold for Unisex ...,27.83,0,-9.46,6.12,24.49
+12/2/2025,Deferred,Order Payment,405-3385820-0973152,Ramadan24 Eternal Oud Eau de Parfum Latt...,39.33,0,-12.39,8.65,35.59
+12/2/2025,Deferred,Order Payment,407-6125521-4387561,Ramadan24 Eternal Oud Eau de Parfum Latt...,23.77,-1.09,-9.49,6.32,19.51
+12/2/2025,Released,Inventory Reimbursement,406-5291133-8831512,FBA Inventory Reimbursement,0,0,0,21.73,21.73
+12/2/2025,Deferred,Order Payment,404-4139823-2023565,Ramadan24 Eternal Oud Eau de Parfum Latt...,23.77,0,-9.49,5.23,19.51
+12/2/2025,Released,Order Payment,403-9782273-8677962,Spray Yara 100ml,24.43,-3.27,-9.89,8.64,19.91
+12/2/2025,Released,Order Payment,406-6318541-8471532,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+12/2/2025,Released,Order Payment,171-2472024-5085919,Fragrance World Cherry Buzz,20.66,0,-7.71,4.54,17.49
+11/2/2025,Released,Order Payment,406-0227065-9345155,Spray Yara 100ml,24.67,0,-12.27,8.2,20.6
+11/2/2025,Deferred,Order Payment,402-8126008-1476355,Paris Corner Taskeen Caramel Cascade Eau...,32.78,0,-14.93,7.21,25.06
+11/2/2025,Released,Order Payment,404-0014502-5064315,Spray Yara 100ml,24.55,0,-9.91,5.4,20.04
+11/2/2025,Released,Order Payment,404-5264809-4860314,Spray Yara 100ml,24.67,0,-9.94,5.43,20.16
+11/2/2025,Released,Order Payment,403-2076174-8795541,Spray Yara 100ml,24.67,0,-9.66,5.43,20.44
+11/2/2025,Released,Order Payment,405-1167260-5435553,Spray Yara 100ml,24.81,0,-12.47,8.45,20.79
+11/2/2025,Released,Order Payment,404-5989054-7288343,Spray Yara 100ml,24.55,0,-9.91,5.4,20.04
+11/2/2025,Deferred,Order Payment,408-3530238-6898708,Ramadan24 Eternal Oud Eau de Parfum Latt...,39.33,0,-12.39,8.65,35.59
+11/2/2025,Deferred,Order Payment,407-4895470-0665159,KHADLAJ PERFUMES Khadlaj Hareem Al Sulta...,27.86,0,-6.89,17.13,38.1
+11/2/2025,Deferred,Order Payment,406-3768764-5252346,Fragrance World Cherry Incense Acqua Pro...,20.49,0,-9.14,4.51,15.86
+11/2/2025,Deferred,Order Payment,404-7704456-8707506,Fragrance World Cherry Incense Acqua Pro...,20.49,0,-8.88,0,11.61
+11/2/2025,Deferred,Order Payment,406-3961368-2352350,Fragrance World Cherry Incense Acqua Pro...,20.49,0,-8.88,4.51,16.12
+11/2/2025,Deferred,Order Payment,404-7158198-1970726,Spray Khamrah Qahwa 100 Ml,28.3,0,-10.33,0,17.97
+11/2/2025,Deferred,Order Payment,408-7181239-5687564,Fragrance World Cherry Incense Acqua Pro...,20.49,0,-12.12,8.5,16.87
+11/2/2025,Deferred,Order Payment,402-4437344-1375533,Ramadan24 Eternal Oud Eau de Parfum Latt...,39.33,-3.27,-12.39,11.92,35.59
+11/2/2025,Deferred,Order Payment,407-9310291-0876325,Ramadan24 Eternal Oud Eau de Parfum Latt...,39.33,0,-12.39,8.65,35.59
+11/2/2025,Deferred,Order Payment,407-9562071-3214768,Fragrance World Cherry Incense Acqua Pro...,20.49,0,-8.88,4.51,16.12
+11/2/2025,Released,Order Payment,406-9765638-4931552,Spray Yara 100ml,24.18,0,-9.85,5.32,19.65
+11/2/2025,Released,Order Payment,171-8935843-5811526,Spray Yara 100ml,24.81,0,-9.96,5.46,20.31
+11/2/2025,Released,Order Payment,406-1616899-2519547,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+11/2/2025,Released,Order Payment,403-9306491-9547547,Spray Yara 100ml,24.3,0,-9.87,5.35,19.78
+11/2/2025,Released,Order Payment,403-3609675-2558749,Spray Yara 100ml,24.18,-1.64,-9.85,6.96,19.65
+11/2/2025,Released,Order Payment,405-1736504-6671528,Spray Yara 100ml,24.69,0,-9.94,5.43,20.18
+10/2/2025,Deferred,Order Payment,405-3517617-6225132,Spray Yara 100ml,24.18,0,-9.57,5.32,19.93
+10/2/2025,Released,Order Payment,408-8001460-9235564,Spray Yara 100ml,24.66,0,-9.93,5.43,20.16
+10/2/2025,Released,Order Payment,403-2058337-6765904,Spray Yara 100ml,24.81,0,-9.96,5.46,20.31
+10/2/2025,Released,Order Payment,171-0152327-8344316,Spray Yara 100ml,24.43,0,-9.89,5.37,19.91
+10/2/2025,Released,Order Payment,405-3293167-4567538,Spray Yara 100ml,24.68,0,-9.94,5.43,20.17
+10/2/2025,Released,Order Payment,171-6688255-0759562,Spray Yara 100ml,24.55,-1.09,-9.91,6.49,20.04
+10/2/2025,Released,Order Payment,402-2161532-7331561,Spray Yara 100ml,24.67,0,-9.94,5.43,20.16
+10/2/2025,Released,Order Payment,406-4957471-4641916,Spray Yara 100ml,24.67,0,-9.94,5.43,20.16
+10/2/2025,Released,Order Payment,404-1110739-7041932,Spray Yara 100ml,24.67,0,-9.94,5.43,20.16
+10/2/2025,Released,Order Payment,405-1540829-4409957,Spray Yara 100ml,24.67,0,-9.94,5.43,20.16
+10/2/2025,Released,Order Payment,405-6462990-9217142,Spray Yara 100ml,24.24,0,-9.86,5.33,19.71
+10/2/2025,Deferred,Order Payment,406-2728912-2415547,Spray Mohra 100ml,18.19,0,-8.71,4,13.48
+10/2/2025,Deferred,Order Payment,402-0701159-2994756,Spray Mohra 100ml,18.19,0,-8.71,4,13.48
+10/2/2025,Deferred,Order Payment,171-3805431-9695563,"AJWAD Lattafa - EAU DE PARFUM, Natural s...",17.62,0,-7.82,3.88,13.68
+10/2/2025,Deferred,Order Payment,408-9858102-8747500,"AJWAD Lattafa - EAU DE PARFUM, Natural s...",17.62,0,-7.82,3.88,13.68
+10/2/2025,Deferred,Order Payment,402-6175742-7469903,"AJWAD Lattafa - EAU DE PARFUM, Natural s...",17.62,0,-7.82,3.88,13.68
+10/2/2025,Released,Order Payment,404-4107403-2565931,Spray Yara 100ml,24.33,-1.95,-9.87,7.3,19.81
+10/2/2025,Deferred,Order Payment,171-3100981-6704351,Spray Yara 100ml,24.92,-1.63,-9.96,7.11,20.44
+10/2/2025,Released,Refund,171-4838248-6797910,Vaniglia Tobacco by Fragrance World for ...,-32.78,0,4.92,-7.21,-35.07
+10/2/2025,Deferred,Order Payment,407-5430326-0695566,KHADLAJ PERFUMES Khadlaj Hareem Al Sulta...,27.86,0,-6.89,17.13,38.1
+10/2/2025,Deferred,Order Payment,402-1646854-6912316,KHADLAJ PERFUMES Khadlaj Hareem Al Sulta...,27.86,0,-6.89,17.13,38.1
+10/2/2025,Deferred,Order Payment,404-8959421-4468319,Fragrance World Cherry Incense Acqua Pro...,20.49,0,-8.88,4.51,16.12
+10/2/2025,Deferred,Order Payment,405-0380909-6719549,Fragrance World Cherry Incense Acqua Pro...,20.49,-0.66,-8.88,5.17,16.12
+10/2/2025,Deferred,Order Payment,171-1760770-2460345,Fragrance World Cherry Incense Acqua Pro...,20.49,0,-8.88,4.51,16.12
+10/2/2025,Deferred,Order Payment,405-8510037-6372348,Spray Shaheen Silver 100ml,29.96,0,-9.86,6.59,26.69
+10/2/2025,Deferred,Order Payment,403-2205029-2557150,Lattafa Ansaam Silver EDP U 100 ml,31.5,0,-10.93,6.93,27.5
+10/2/2025,Deferred,Order Payment,405-4490227-8520321,Fragrance World Cherry Incense Acqua Pro...,20.49,0,-8.88,4.51,16.12
+10/2/2025,Deferred,Order Payment,406-7324213-2258724,Fragrance World Cherry Incense Acqua Pro...,20.49,0,-8.88,4.51,16.12
+10/2/2025,Deferred,Order Payment,402-4469735-3601115,"AJWAD Lattafa - EAU DE PARFUM, Natural s...",17.62,0,-7.82,3.88,13.68
+10/2/2025,Released,Order Payment,402-1654387-8892329,Spray Yara 100ml,24.18,-3.27,-9.85,8.59,19.65
+10/2/2025,Released,Order Payment,405-7893012-5898716,Paris Corner Taskeen Caramel Cascade Eau...,32.78,-3.27,-14.93,10.48,25.06
+10/2/2025,Released,Order Payment,406-8725149-3453168,Spray Yara 100ml,24.18,0,-13.2,9.31,20.29
+10/2/2025,Released,Order Payment,408-7949338-5910711,Spray Yara 100ml,24.61,0,-9.92,5.42,20.11
+10/2/2025,Released,Order Payment,406-8253932-5922701,Spray Yara 100ml,24.21,-1.09,-9.85,6.42,19.69
+10/2/2025,Released,Order Payment,402-4375898-9094751,Fragrance World Cherry Buzz,20.66,-3.27,-3.86,7.81,21.34
+10/2/2025,Released,Order Payment,404-7401748-7235504,Spray Yara 100ml,48.44,0,-19.7,10.66,39.4
+10/2/2025,Released,Order Payment,404-9692602-3419527,Spray Yara 100ml,24.18,0,-9.59,5.32,19.91
+10/2/2025,Released,Order Payment,406-9411869-7586720,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+9/2/2025,Deferred,Order Payment,408-8766140-6908349,Fragrance World Cherry Incense Acqua Pro...,20.49,0,-8.88,4.51,16.12
+9/2/2025,Deferred,Order Payment,407-2568091-9401161,Lattafa Zikra Niche Eau de Parfum - A Sy...,41.8,0,-7.8,9.2,43.2
+9/2/2025,Deferred,Order Payment,406-9474278-8513117,Ajayeb Dubai - Eau de Perfume per ritrat...,20.04,0,-3.74,4.41,20.71
+9/2/2025,Deferred,Order Payment,405-6010486-2376306,Spray Khamrah Qahwa 100 Ml,28.3,0,-10.33,0,17.97
+9/2/2025,Released,Order Payment,408-7444343-6120303,Spray Yara 100ml,24.18,-0.82,-9.85,6.14,19.65
+9/2/2025,Released,Order Payment,171-2877220-1361903,Paris Corner Taskeen Caramel Cascade Eau...,32.78,0,-14.93,7.21,25.06
+9/2/2025,Released,Order Payment,404-8163510-6621115,Spray Asad 100 Ml,24.58,-0.66,-9.92,6.07,20.07
+9/2/2025,Released,Order Payment,408-7437117-4039502,Spray Yara 100ml,24.18,0,-9.85,5.32,19.65
+9/2/2025,Released,Order Payment,407-4529478-4563560,Paris Corner Taskeen Caramel Cascade Eau...,32.78,0,-14.93,7.21,25.06
+8/2/2025,Released,Order Payment,406-7031054-1139553,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+8/2/2025,Released,Order Payment,404-9335364-8837930,Spray Yara 100ml,24.24,0,-9.86,5.33,19.71
+8/2/2025,Released,Order Payment,403-9294112-1704362,Spray Yara 100ml,24.63,0,-9.93,5.42,20.12
+8/2/2025,Released,Order Payment,171-9979618-8500333,Spray Yara 100ml,24.19,0,-9.85,5.32,19.66
+8/2/2025,Released,Order Payment,171-5779669-9283511,Spray Yara 100ml,24.18,0,-9.85,5.32,19.65
+8/2/2025,Released,Order Payment,404-2833147-4236333,Spray Yara 100ml,24.41,0,-9.89,5.37,19.89
+8/2/2025,Released,Order Payment,408-6622332-7889102,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+8/2/2025,Released,Order Payment,406-9101568-4590752,Spray Yara 100ml,24.18,-1.64,-9.85,6.96,19.65
+8/2/2025,Released,Order Payment,407-0268923-4127512,Spray Asad 100 Ml,24.58,0,-14.11,10.4,20.87
+8/2/2025,Released,Order Payment,407-8550230-0275510,Spray Yara 100ml,24.22,0,-9.85,5.33,19.7
+8/2/2025,Deferred,Order Payment,405-7602948-6530725,Fragrance World Cherry Incense Acqua Pro...,20.49,0,-12.49,8.5,16.5
+8/2/2025,Deferred,Order Payment,404-8290203-3231510,Spray Mohra 100ml,18.19,0,-8.71,4,13.48
+8/2/2025,Deferred,Order Payment,408-3361482-8087514,Paris Corner Taskeen Caramel Cascade Eau...,32.78,0,-14.93,7.21,25.06
+8/2/2025,Deferred,Order Payment,405-8761084-9674765,Lattafa Profumi Al Qiam Gold for Unisex ...,27.83,0,-9.46,6.12,24.49
+8/2/2025,Deferred,Order Payment,407-8725803-0706765,Fragrance World Cherry Incense Acqua Pro...,20.49,0,-8.88,4.51,16.12
+8/2/2025,Deferred,Order Payment,403-1135012-6005959,Lattafa Sehr Eau de Parfum Spray for Uni...,31.07,0,-11.41,6.83,26.49
+8/2/2025,Released,Order Payment,408-0031663-1790755,"Eau de Parfum Opulent Musk, profumo unis...",18.85,0,-10.93,4.15,12.07
+7/2/2025,Released,Order Payment,404-5044361-8856354,Spray Yara 100ml,24.18,0,-9.85,5.32,19.65
+7/2/2025,Released,Order Payment,404-4560511-8344345,Spray Yara 100ml,24.18,0,-9.85,5.32,19.65
+7/2/2025,Released,Order Payment,405-8781159-2110729,Spray Yara 100ml,24.18,0,-9.85,5.32,19.65
+7/2/2025,Released,Order Payment,408-6675976-3386734,Spray Yara 100ml,24.18,0,-9.85,5.32,19.65
+7/2/2025,Deferred,Order Payment,404-7603375-5893922,Spray Mohra 100ml,18.19,0,-8.71,4,13.48
+7/2/2025,Deferred,Order Payment,408-7761652-7793966,Lattafa Profumi Al Qiam Gold for Unisex ...,27.83,0,-9.46,6.12,24.49
+7/2/2025,Deferred,Order Payment,403-8077203-5367540,Lattafa Ansaam Silver EDP U 100 ml,31.5,0,-10.93,6.93,27.5
+7/2/2025,Deferred,Order Payment,404-3781815-6615538,Spray Yara 100ml,24.83,0,-9.94,5.46,20.35
+7/2/2025,Released,Service Fees,---,FBA storage fee,0,0,0,-0.12,-0.12
+7/2/2025,Released,Order Payment,408-5327462-1214738,Spray Yara 100ml,24.18,0,-9.85,5.32,19.65
+7/2/2025,Released,Order Payment,407-5776937-8509129,Ramadan24 Eternal Oud Eau de Parfum Latt...,42.95,0,-13.09,9.45,39.31
+7/2/2025,Released,Order Payment,405-0038233-7088376,Spray Yara 100ml,24.18,0,-9.59,5.32,19.91
+7/2/2025,Released,Order Payment,404-7708450-8026725,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+6/2/2025,Released,Refund,407-3583064-0507528,Swiss Arabian Shaghaf Oud Ahmar Eau de P...,-49.18,0,11.25,-13.95,-51.88
+6/2/2025,Released,Order Payment,407-3583064-0507528,Swiss Arabian Shaghaf Oud Ahmar Eau de P...,49.18,0,-18.38,13.95,44.75
+6/2/2025,Released,Order Payment,408-4370696-0321947,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+6/2/2025,Released,Order Payment,408-4582496-0541934,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+5/2/2025,Released,Order Payment,408-0773770-3733905,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+5/2/2025,Released,Order Payment,171-8025623-2263523,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+5/2/2025,Released,Order Payment,404-4611544-8087554,Jorge Di Profumo Aqua 100 ml Maison Alha...,18.03,-1.09,-7.6,5.06,14.4
+5/2/2025,Released,Order Payment,407-2370130-9738718,Spray Yara Moi 100 Ml,21.91,-0.82,-12.64,5.64,14.09
+5/2/2025,Released,Order Payment,408-7923143-5448349,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+5/2/2025,Released,Order Payment,403-9409583-3081918,Spray Asad 100 Ml,24.58,-1.63,-9.92,7.04,20.07
+5/2/2025,Released,Order Payment,405-8122273-7677148,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+5/2/2025,Released,Order Payment,408-0573848-3488304,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+5/2/2025,Released,Order Payment,404-8334022-0358737,"North Stag - Profumo di lusso, 100 ml, E...",55.83,0,-12.11,23.28,67
+4/2/2025,Released,Refund,408-0183600-3239561,Spray Asad 100 Ml,-24.58,0,3.69,-5.41,-26.3
+4/2/2025,Released,Order Payment,406-7373267-4803561,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+4/2/2025,Deferred,Order Payment,171-5428057-5509929,Fragrance World Cherry Incense Acqua Pro...,25.73,0,-9.85,5.66,21.54
+4/2/2025,Released,Order Payment,408-1779060-9969155,"Pear Potion, Eau de Parfum",28.69,0,-8.71,6.31,26.29
+4/2/2025,Released,Order Payment,403-4741519-3308309,Fragrance World Amber & Neroli Eau de Pa...,24.59,0,-4.59,5.41,25.41
+4/2/2025,Released,Order Payment,405-0876819-6959565,Spray Asad 100 Ml,24.58,-1.09,-9.92,6.5,20.07
+3/2/2025,Released,Order Payment,404-1652649-5120351,Spray Asad 100 Ml,24.58,0,-13.27,9.4,20.71
+3/2/2025,Released,Order Payment,405-8695807-2109145,Fragrance World Cherry Incense Acqua Pro...,25.81,0,-9.88,5.68,21.61
+3/2/2025,Released,Order Payment,403-9463177-1628352,Spray Asad 100 Ml,24.58,0,-13.27,9.4,20.71
+3/2/2025,Released,Order Payment,405-6739804-2165905,Spray Asad 100 Ml,24.58,-1.09,-9.92,6.5,20.07
+3/2/2025,Released,Order Payment,403-1169250-2149148,Spray Asad 100 Ml,24.58,-1.64,-9.92,7.05,20.07
+3/2/2025,Released,Order Payment,404-6748932-0124309,Paris Corner Taskeen Caramel Cascade Eau...,32.78,-1.09,-14.93,8.3,25.06
+3/2/2025,Released,Order Payment,406-9148225-9321134,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+3/2/2025,Released,Order Payment,402-9716823-4415542,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+3/2/2025,Released,Order Payment,403-8658581-5912333,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+3/2/2025,Released,Order Payment,402-2742222-2693162,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+3/2/2025,Released,Order Payment,402-3643863-6740352,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+2/2/2025,Released,Order Payment,408-9417629-3321164,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+2/2/2025,Released,Order Payment,407-2671480-1552335,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+1/2/2025,Released,Order Payment,402-6255710-2177950,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+1/2/2025,Released,Order Payment,407-3023696-9088340,Paris Corner Taskeen Caramel Cascade Eau...,32.78,0,-14.93,7.21,25.06
+1/2/2025,Released,Refund,404-6327831-5993933,Fragrance World Cherry Incense Acqua Pro...,-25.81,0.89,3.87,-6.57,-27.62
+1/2/2025,Released,Order Payment,171-7268828-8830741,Ramadan24 Eternal Oud Eau de Parfum Latt...,42.95,0,-13.09,9.45,39.31
+1/2/2025,Released,Service Fees,---,Subscription:,0,0,-15.41,0,-15.41
+1/2/2025,Released,Order Payment,408-9900188-7071504,Ramadan24 Eternal Oud Eau de Parfum Latt...,42.95,-3.27,-13.09,12.72,39.31
+1/2/2025,Released,Order Payment,402-5965958-3606753,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+1/2/2025,Released,Order Payment,405-2568681-4360307,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+31/01/2025,Released,Order Payment,404-2884023-5817912,Vaniglia Tobacco by Fragrance World for ...,32.78,-3.27,-11.45,10.48,28.54
+31/01/2025,Released,Order Payment,406-6682453-5081122,Spray Asad 100 Ml,24.58,-0.66,-9.92,6.07,20.07
+31/01/2025,Released,Order Payment,406-6122347-5301931,Spray Yara 100ml,24.18,0,-9.85,5.32,19.65
+31/01/2025,Released,Order Payment,404-7757639-9816351,Fragrance World Cherry Incense Acqua Pro...,25.81,0,-9.88,5.68,21.61
+31/01/2025,Released,Order Payment,404-6202566-7644350,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+31/01/2025,Released,Order Payment,403-0131858-8698738,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+31/01/2025,Released,Order Payment,403-5722956-2772301,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+31/01/2025,Released,Order Payment,403-1792114-9426700,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+31/01/2025,Released,Order Payment,405-7877496-6766764,Fragrance World Cherry Incense Acqua Pro...,25.81,0,-9.88,5.68,21.61
+31/01/2025,Released,Order Payment,402-5926784-6112312,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+31/01/2025,Released,Order Payment,405-7107870-5382731,Spray Asad 100 Ml,24.58,-1.63,-9.92,7.04,20.07
+31/01/2025,Released,Order Payment,404-7468739-4292360,Spray Sheikh Al Shuyukh Luxe Edition 100...,20.49,-1.63,-8.9,6.14,16.1
+31/01/2025,Released,Order Payment,406-3834767-9748314,Spray Asad 100 Ml,24.58,0,-13.27,9.4,20.71
+30/01/2025,Released,Order Payment,408-6202905-4241942,"Al Oud Sublime perfumed water unisex, 10...",31.06,0,-10.86,6.83,27.03
+30/01/2025,Released,Order Payment,407-7323499-2109961,Spray Asad 100 Ml,24.58,-1.63,-9.92,7.04,20.07
+30/01/2025,Released,Order Payment,406-1947423-3333130,Spray Asad 100 Ml,24.58,-1.09,-9.92,6.5,20.07
+30/01/2025,Released,Refund,403-9258418-8983560,Fragrance World Cherry Incense Acqua Pro...,-25.81,0,3.87,-5.68,-27.62
+30/01/2025,Released,Order Payment,407-2108729-1577912,Ramadan24 Eternal Oud Eau de Parfum Latt...,42.95,0,-13.09,9.45,39.31
+30/01/2025,Released,Order Payment,406-3153508-8481956,Paris Corner Taskeen Caramel Cascade Eau...,32.78,0,-14.93,7.21,25.06
+30/01/2025,Released,Order Payment,407-6857833-3933942,"Al Oud Sublime perfumed water unisex, 10...",31.06,0,-10.86,6.83,27.03
+30/01/2025,Released,Order Payment,406-4946636-6865910,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+30/01/2025,Released,Order Payment,404-6941343-7025942,Ramadan24 Eternal Oud Eau de Parfum Latt...,42.95,0,-13.09,9.45,39.31
+30/01/2025,Released,Order Payment,403-9408565-9205136,Spray Musamam 100ml,40.98,0,-12.98,9.01,37.01
+30/01/2025,Released,Order Payment,407-1510962-0597903,Fragrance World Cherry Incense Acqua Pro...,25.81,0,-9.88,5.68,21.61
+30/01/2025,Released,Order Payment,408-9390608-3203517,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+30/01/2025,Released,Order Payment,403-9258418-8983560,Fragrance World Cherry Incense Acqua Pro...,25.81,0,-9.88,5.68,21.61
+29/01/2025,Released,Order Payment,402-0458336-9053126,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+29/01/2025,Released,Order Payment,405-5629362-6044307,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+29/01/2025,Released,Order Payment,407-5732638-3555540,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+29/01/2025,Released,Order Payment,407-4523612-6164314,Spray Asad 100 Ml,24.58,-1.64,-9.92,7.05,20.07
+29/01/2025,Released,Order Payment,403-5252066-9843520,Paris Corner Taskeen Caramel Cascade Eau...,32.78,0,-14.93,7.21,25.06
+29/01/2025,Released,Order Payment,408-5141928-8074748,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+29/01/2025,Released,Order Payment,402-4122809-2444328,Ramadan24 Eternal Oud Eau de Parfum Latt...,42.95,0,-13.09,9.45,39.31
+29/01/2025,Released,Refund,406-9063835-3308346,Spray Asad 100 Ml,-24.58,0,3.69,-5.41,-26.3
+29/01/2025,Released,Order Payment,404-6139675-5197140,Spray Asad 100 Ml,24.58,0,-13.65,9.11,20.04
+29/01/2025,Released,Order Payment,402-4651215-6526721,Spray Asad 100 Ml,24.58,-3.27,-9.92,8.68,20.07
+28/01/2025,Released,Order Payment,405-3366857-9294702,Fragrance World Cherry Incense Acqua Pro...,25.81,0,-9.88,5.68,21.61
+28/01/2025,Released,Order Payment,408-5958174-8475567,Ramadan24 Eternal Oud Eau de Parfum Latt...,42.95,0,-13.09,9.45,39.31
+28/01/2025,Released,Refund,402-4651215-6526721,Spray Asad 100 Ml,-24.58,3.27,3.69,-8.68,-26.3
+28/01/2025,Released,Order Payment,404-5520965-2989954,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+28/01/2025,Released,Order Payment,406-9063835-3308346,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+28/01/2025,Released,Order Payment,407-9374777-3588337,Khadlaj Hareem Al Sultan Gold - Olio Pro...,28.68,0,-7.04,17.31,38.95
+28/01/2025,Released,Order Payment,171-3654811-7173154,Fragrance World Cherry Incense Acqua Pro...,25.81,0,-9.88,5.68,21.61
+28/01/2025,Released,Refund,171-9491043-9680309,Spray Asad 100 Ml,-24.58,0,3.69,-5.41,-26.3
+28/01/2025,Released,Order Payment,405-8118198-4819569,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+28/01/2025,Released,Order Payment,404-4899079-4861963,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+28/01/2025,Released,Order Payment,406-9767850-5752323,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+28/01/2025,Released,Order Payment,408-1717302-7227508,Fragrance World Cherry Incense Acqua Pro...,25.81,0,-9.88,5.68,21.61
+28/01/2025,Released,Order Payment,408-7830214-0612304,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+28/01/2025,Released,Order Payment,402-3468941-1501960,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+28/01/2025,Released,Order Payment,405-5122820-7950750,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+28/01/2025,Released,Refund,407-6936603-6276357,Spray Asad 100 Ml,-24.58,0,3.69,-5.41,-26.3
+28/01/2025,Released,Order Payment,171-8784054-3942709,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+28/01/2025,Released,Order Payment,407-6936603-6276357,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+28/01/2025,Released,Order Payment,405-7428762-5246754,Spray Glacier Ultra 100ml,18.12,0,-5.07,14.99,28.04
+28/01/2025,Released,Order Payment,408-9656447-8902716,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+27/01/2025,Released,Order Payment,404-7568922-7258735,Spray Asad 100 Ml,24.58,0,-13.27,9.4,20.71
+27/01/2025,Released,Refund,404-7568922-7258735,Spray Asad 100 Ml,0,0,3.35,-3.99,-0.64
+27/01/2025,Released,Order Payment,405-5304167-5435542,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+27/01/2025,Released,Order Payment,406-0439957-8029109,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+27/01/2025,Released,Order Payment,404-3734374-0137909,Ramadan24 Eternal Oud Eau de Parfum Latt...,42.95,0,-13.09,9.45,39.31
+27/01/2025,Released,Order Payment,403-0285967-8402733,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+27/01/2025,Released,Order Payment,402-0813234-6119520,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+27/01/2025,Released,Order Payment,404-7000324-5084306,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+27/01/2025,Released,Order Payment,406-3421686-3494768,Spray Ameerat Al Arab 100 ML,23.33,0,-6.04,16.13,33.42
+27/01/2025,Released,Order Payment,408-5517603-4810703,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+27/01/2025,Released,Order Payment,406-2175348-7836333,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+27/01/2025,Released,Order Payment,407-6006030-5929930,Spray Asad 100 Ml,24.5,0,-9.9,0,14.6
+27/01/2025,Released,Order Payment,407-2226749-8951543,Paris Corner Taskeen Caramel Cascade Eau...,32.78,0,-14.93,7.21,25.06
+27/01/2025,Released,Order Payment,407-0214617-8577932,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+27/01/2025,Released,Order Payment,407-4057060-3898751,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+27/01/2025,Released,Order Payment,402-5342744-4066701,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+27/01/2025,Released,Order Payment,406-5917717-2336356,Paris Corner Taskeen Caramel Cascade Eau...,32.78,0,-14.93,7.21,25.06
+26/01/2025,Released,Order Payment,402-8031808-9645158,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+26/01/2025,Released,Refund,404-7313220-7394708,Spray Asad 100 Ml,-24.58,0,3.69,-5.41,-26.3
+26/01/2025,Released,Order Payment,406-3766007-4213933,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+26/01/2025,Released,Order Payment,408-6625317-4857953,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+26/01/2025,Released,Order Payment,402-2122471-6924310,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+26/01/2025,Released,Order Payment,402-1772571-0729105,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+26/01/2025,Released,Order Payment,403-6667220-3167561,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+26/01/2025,Released,Order Payment,404-7431137-9359529,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+26/01/2025,Released,Order Payment,408-1296959-7133940,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+26/01/2025,Released,Order Payment,404-6004204-2665948,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+26/01/2025,Released,Order Payment,404-7313220-7394708,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+26/01/2025,Released,Order Payment,408-1160200-9329151,Paris Corner Taskeen Caramel Cascade Eau...,32.78,0,-7.8,18.21,43.19
+26/01/2025,Released,Order Payment,408-0183600-3239561,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+26/01/2025,Released,Order Payment,405-5696296-2297932,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+26/01/2025,Released,Order Payment,171-5253183-1428340,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+25/01/2025,Released,Order Payment,407-4790451-0736350,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+25/01/2025,Released,Order Payment,408-4234290-1596322,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+25/01/2025,Released,Order Payment,408-9226640-1797909,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+25/01/2025,Released,Order Payment,402-9101956-9993150,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+25/01/2025,Released,Order Payment,171-4991996-0484333,Ramadan24 Eternal Oud Eau de Parfum Latt...,42.95,-0.82,-13.09,10.27,39.31
+25/01/2025,Released,Order Payment,408-0051156-5647578,Spray Asad 100 Ml,24.58,-1.63,-9.92,7.04,20.07
+25/01/2025,Released,Order Payment,408-4562529-0948321,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+25/01/2025,Released,Order Payment,405-6816215-1584358,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+25/01/2025,Released,Order Payment,405-1461101-4947524,Spray Asad 100 Ml,24.58,-1.09,-9.92,6.5,20.07
+25/01/2025,Released,Order Payment,405-4070418-4897933,Spray Asad 100 Ml,24.58,-0.55,-9.92,5.96,20.07
+25/01/2025,Released,Order Payment,403-6582879-9235557,Spray Asad 100 Ml,24.58,-1.09,-9.92,6.5,20.07
+25/01/2025,Released,Order Payment,171-9836672-0778723,Spray Asad 100 Ml,24.58,-1.63,-9.92,7.04,20.07
+25/01/2025,Released,Order Payment,404-5233378-0336308,Spray Asad 100 Ml,24.58,0,-13.27,9.4,20.71
+25/01/2025,Released,Order Payment,407-7185779-0483518,Spray Asad 100 Ml,24.58,0,-10.62,6.24,20.2
+25/01/2025,Released,Order Payment,402-3555625-4820357,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+25/01/2025,Released,Order Payment,402-4603691-8949132,Spray Yara 100ml,24.18,0,-9.85,5.32,19.65
+25/01/2025,Released,Order Payment,406-3607506-8871534,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+25/01/2025,Released,Order Payment,407-5138131-2127546,Spray Asad 100 Ml,24.58,-1.09,-9.92,6.5,20.07
+25/01/2025,Released,Order Payment,404-4144091-0862706,Spray Asad 100 Ml,24.58,0,-11.31,7.07,20.34
+25/01/2025,Released,Order Payment,404-7761768-4780311,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+25/01/2025,Released,Order Payment,404-7149184-5113153,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+25/01/2025,Released,Order Payment,405-0724599-7487564,Spray Asad 100 Ml,24.58,0,-13.27,9.4,20.71
+25/01/2025,Released,Order Payment,404-5532880-0754750,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+25/01/2025,Released,Order Payment,405-0750430-2032367,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+24/01/2025,Released,Order Payment,403-6623673-9973101,"Eau de Parfum Opulent Musk, profumo unis...",18.85,0,-10.93,4.15,12.07
+24/01/2025,Released,Order Payment,404-5101092-5223531,Fragrance World Cherry Incense Acqua Pro...,25.81,0,-9.88,5.68,21.61
+24/01/2025,Released,Order Payment,406-3328865-0561927,Spray Asad 100 Ml,24.58,0,-13.27,9.4,20.71
+24/01/2025,Released,Order Payment,404-4738987-4096304,Spray Asad 100 Ml,24.58,0,-13.27,9.4,20.71
+24/01/2025,Released,Refund,402-4603691-8949132,Spray Yara 100ml,-24.18,0,3.63,-5.32,-25.87
+24/01/2025,Released,Order Payment,171-9491043-9680309,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+24/01/2025,Released,Order Payment,405-0402850-1972307,Spray Asad 100 Ml,24.58,0,-13.27,9.4,20.71
+24/01/2025,Released,Order Payment,402-7356763-0046755,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+24/01/2025,Released,Order Payment,405-7340913-9209138,Spray Asad 100 Ml,24.58,-3.27,-9.92,8.68,20.07
+24/01/2025,Released,Order Payment,402-9118720-4970750,Vaniglia Tobacco by Fragrance World for ...,32.78,-1.09,-11.45,8.3,28.54
+24/01/2025,Released,Order Payment,405-4879778-0740336,Spray Asad 100 Ml,24.58,-1.64,-9.92,7.05,20.07
+24/01/2025,Released,Order Payment,171-3215048-5233163,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+24/01/2025,Released,Order Payment,406-2478708-2580345,Spray Asad 100 Ml,24.58,0,-9.92,0,14.66
+24/01/2025,Released,Order Payment,405-6419785-8846702,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+24/01/2025,Released,Order Payment,406-4737750-7289948,Spray Asad 100 Ml,24.58,-1.64,-9.92,7.05,20.07
+24/01/2025,Released,Order Payment,403-2068581-3263528,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+24/01/2025,Released,Order Payment,171-2440871-3601904,Spray Asad 100 Ml,49.16,0,-19.84,10.82,40.14
+24/01/2025,Released,Order Payment,405-3726386-4351562,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+24/01/2025,Released,Order Payment,406-3275541-0575540,Ramadan24 Eternal Oud Eau de Parfum Latt...,42.95,0,-13.09,9.45,39.31
+24/01/2025,Released,Order Payment,405-4277481-6500344,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+24/01/2025,Released,Order Payment,405-1031479-8637926,Spray Sheikh Al Shuyukh Luxe Edition 100...,20.49,0,-8.9,4.51,16.1
+24/01/2025,Released,Refund,405-8743111-8685908,Spray Asad 100 Ml,-24.58,0,3.69,-5.41,-26.3
+24/01/2025,Released,Refund,406-2570112-9356306,Ramadan24 Eternal Oud Eau de Parfum Latt...,-42.95,0,6.45,-9.45,-45.95
+24/01/2025,Released,Order Payment,171-5864609-1601911,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+24/01/2025,Released,Order Payment,407-0990785-9931518,KHADLAJ PERFUMES Khadlaj Hareem Al Sulta...,27.86,0,-6.89,17.13,38.1
+24/01/2025,Released,Order Payment,405-0959273-1034701,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+24/01/2025,Released,Order Payment,406-0204294-2825969,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+24/01/2025,Released,Order Payment,406-5378296-3279538,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+24/01/2025,Released,Order Payment,406-3127775-2175540,Spray Asad 100 Ml,49.16,0,-19.84,10.82,40.14
+24/01/2025,Released,Order Payment,402-4599978-6744330,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+24/01/2025,Released,Order Payment,402-1122727-7633166,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+24/01/2025,Released,Order Payment,404-0377479-4693957,Spray Asad 100 Ml,24.58,-1.63,-9.92,7.04,20.07
+24/01/2025,Released,Order Payment,408-4766846-3820335,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+24/01/2025,Released,Order Payment,171-7319092-7302764,Spray Asad 100 Ml,49.16,0,-19.84,10.82,40.14
+23/01/2025,Released,Order Payment,171-6845784-5056341,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+23/01/2025,Released,Order Payment,402-2954174-1789153,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+23/01/2025,Released,Order Payment,403-2868366-1734710,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+23/01/2025,Released,Order Payment,403-4287879-5031562,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+23/01/2025,Released,Order Payment,406-1552210-2992325,"Eau de Parfum Opulent Musk, profumo unis...",18.85,0,-10.93,4.15,12.07
+23/01/2025,Released,Refund,402-1122727-7633166,Spray Asad 100 Ml,-24.58,0,3.69,-5.41,-26.3
+23/01/2025,Released,Order Payment,404-9886660-0102735,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+23/01/2025,Released,Order Payment,406-2570112-9356306,Ramadan24 Eternal Oud Eau de Parfum Latt...,42.95,0,-13.09,9.45,39.31
+23/01/2025,Released,Order Payment,402-6884574-1785927,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+23/01/2025,Released,Order Payment,408-6677852-6197957,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+23/01/2025,Released,Order Payment,171-5246758-8494750,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+23/01/2025,Released,Order Payment,404-1293980-9743511,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+23/01/2025,Released,Order Payment,402-6354673-4310768,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+23/01/2025,Released,Order Payment,171-8253202-2843536,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+23/01/2025,Released,Order Payment,405-9986721-9081948,Spray Asad 100 Ml,24.58,0,-13.27,9.4,20.71
+23/01/2025,Released,Order Payment,408-2349843-3640336,Fragrance World Cherry Buzz,20.66,0,-3.86,4.54,21.34
+23/01/2025,Released,Order Payment,171-0781099-2633961,Spray Khamrah Qahwa 100 Ml,33.77,0,-11.37,0,22.4
+23/01/2025,Released,Order Payment,171-1602453-4354727,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+23/01/2025,Released,Order Payment,171-9438317-3389135,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+23/01/2025,Released,Refund,402-6354673-4310768,Spray Asad 100 Ml,-24.58,0,3.69,-5.41,-26.3
+23/01/2025,Released,Order Payment,403-3829279-1157960,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+23/01/2025,Released,Order Payment,403-1008278-1589913,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+23/01/2025,Released,Order Payment,404-9215804-6655565,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+23/01/2025,Released,Order Payment,408-4510791-3875557,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+23/01/2025,Released,Order Payment,405-8743111-8685908,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+23/01/2025,Released,Order Payment,405-6093010-5317115,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+23/01/2025,Released,Inventory Reimbursement,171-2333360-5986702,FBA Inventory Reimbursement,0,0,0,15.79,15.79
+23/01/2025,Released,Order Payment,407-1846731-8148353,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+23/01/2025,Released,Order Payment,402-0021126-4240343,Spray Asad 100 Ml,24.58,0,-13.27,9.4,20.71
+23/01/2025,Released,Order Payment,406-0456117-1651529,Spray Khamrah Qahwa 100 Ml,33.77,0,-11.37,7.77,30.17
+23/01/2025,Released,Order Payment,406-4028113-6574718,Vaniglia Tobacco by Fragrance World for ...,32.78,0,-11.45,7.21,28.54
+23/01/2025,Released,Order Payment,403-4467471-5341127,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+23/01/2025,Released,Order Payment,405-9355138-9735566,Spray Asad 100 Ml,24.58,-1.63,-9.92,7.04,20.07
+23/01/2025,Released,Order Payment,406-8784720-6513927,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+23/01/2025,Released,Order Payment,404-1148121-5842760,Spray Asad 100 Ml,24.58,-0.66,-9.92,6.07,20.07
+23/01/2025,Released,Order Payment,406-9526158-2843556,"Eau de Parfum Opulent Musk, profumo unis...",18.85,0,-10.93,4.15,12.07
+23/01/2025,Released,Order Payment,405-8428841-1311503,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+23/01/2025,Released,Refund,405-7536602-0597963,Spray Asad 100 Ml,-24.58,0,3.69,-5.41,-26.3
+23/01/2025,Released,Order Payment,404-1712049-3496315,Paris Corner Taskeen Caramel Cascade Eau...,32.78,0,-14.93,7.21,25.06
+23/01/2025,Released,Order Payment,402-8887750-5252311,Spray Asad 100 Ml,24.58,0,-13.27,9.4,20.71
+23/01/2025,Released,Order Payment,403-5834488-5098739,Ramadan24 Eternal Oud Eau de Parfum Latt...,42.95,0,-13.09,9.45,39.31
+23/01/2025,Released,Order Payment,403-7855244-2331555,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+23/01/2025,Released,Order Payment,171-7765100-9716356,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+23/01/2025,Released,Order Payment,408-8106624-8387548,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+22/01/2025,Released,Order Payment,402-0811406-0907536,Spray Asad 100 Ml,24.58,-1.22,-9.92,6.63,20.07
+22/01/2025,Released,Order Payment,406-9077923-5185969,Ramadan24 Eternal Oud Eau de Parfum Latt...,42.95,0,-13.09,9.45,39.31
+22/01/2025,Released,Order Payment,405-2045593-4369958,Spray Asad 100 Ml,24.58,0,-13.27,9.4,20.71
+22/01/2025,Released,Order Payment,171-6117560-8829116,Spray Asad 100 Ml,24.58,-1.64,-9.92,7.05,20.07
+22/01/2025,Released,Order Payment,405-8321563-0986708,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+22/01/2025,Released,Order Payment,402-0790099-7229957,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+22/01/2025,Released,Order Payment,407-9079226-2876322,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+22/01/2025,Released,Order Payment,404-1237605-4940342,Fragrance World Cherry Incense Acqua Pro...,25.81,0,-10.14,5.68,21.35
+22/01/2025,Released,Order Payment,171-2707001-8393132,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+22/01/2025,Released,Refund,405-7522403-3049906,Spray Khamrah Qahwa 100 Ml,-33.77,0,5.06,-7.43,-36.14
+22/01/2025,Released,Order Payment,405-7536602-0597963,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+22/01/2025,Released,Order Payment,171-6591615-4293157,Spray Ana Abiyedh 60 Ml,16.39,0,-7.55,3.61,12.45
+22/01/2025,Released,Order Payment,171-2036222-1296331,Spray Asad 100 Ml,24.58,0,-13.27,9.4,20.71
+22/01/2025,Released,Order Payment,405-1828577-9466737,Vaniglia Tobacco by Fragrance World for ...,32.78,0,-11.45,7.21,28.54
+22/01/2025,Released,Order Payment,405-5856967-5231503,French avenue Amber Saffron Extrait 80 m...,61.47,0,-13.16,24.52,72.83
+21/01/2025,Released,Order Payment,405-5221359-9672305,Ramadan24 Eternal Oud Eau de Parfum Latt...,42.95,0,-13.09,9.45,39.31
+21/01/2025,Released,Order Payment,408-1114359-8609133,Spray Asad 100 Ml,24.58,0,-9.92,5.41,20.07
+21/01/2025,Released,Inventory Reimbursement,402-3926817-8050735,FBA Inventory Reimbursement,0,0,0,11.67,11.67
+21/01/2025,Released,Order Payment,405-2475257-6633126,Vaniglia Tobacco by Fragrance World for ...,32.78,0,-11.45,7.21,28.54
+20/01/2025,Released,Order Payment,408-7388091-7514742,Ramadan24 Eternal Oud Eau de Parfum Latt...,42.95,0,-13.09,9.45,39.31
+20/01/2025,Released,Order Payment,402-9746863-7052325,Spray Khamrah Qahwa 100 Ml,33.77,-1.63,-11.37,9.06,29.83
+20/01/2025,Released,Order Payment,405-1730685-3864302,Spray Khamrah Qahwa 100 Ml,33.77,-3.27,-11.37,10.7,29.83
+20/01/2025,Released,Order Payment,408-1169669-8013958,Ramadan24 Eternal Oud Eau de Parfum Latt...,42.95,-3.27,-13.09,12.72,39.31
+19/01/2025,Released,Order Payment,407-0619591-1551500,Fragrance World Cherry Incense Acqua Pro...,25.81,0,-13.12,9.67,22.36
+19/01/2025,Released,Order Payment,404-9457705-4687523,Spray Khamrah Qahwa 100 Ml,33.77,0,-11.37,7.43,29.83
+19/01/2025,Released,Order Payment,408-5145469-4901162,Fragrance World Cherry Incense Acqua Pro...,25.81,0,-9.88,5.68,21.61
+18/01/2025,Released,Order Payment,402-7355893-7531565,Paris Corner Taskeen Caramel Cascade Eau...,32.78,0,-14.93,7.21,25.06
+18/01/2025,Released,Order Payment,171-8186689-6411546,Spray Khamrah Qahwa 100 Ml,33.77,-3.27,-11.37,10.7,29.83
+18/01/2025,Released,Order Payment,406-2194118-8880333,Spray Khamrah Qahwa 100 Ml,33.77,0,-11.37,7.43,29.83
+18/01/2025,Released,Order Payment,407-5368357-2346721,Spray Khamrah Qahwa 100 Ml,33.77,-1.64,-11.37,9.07,29.83
+18/01/2025,Released,Order Payment,402-8984367-3762719,Spray Musamam 100ml,40.98,0,-12.98,9.01,37.01
+18/01/2025,Released,Order Payment,408-2729806-5268334,Oud Wonder - Eau de Parfum - By Fragranc...,32.78,0,-11.45,7.21,28.54
+18/01/2025,Released,Order Payment,408-9476643-6057912,Paris Corner Taskeen Caramel Cascade Eau...,32.78,0,-14.93,7.21,25.06
+18/01/2025,Released,Order Payment,404-6327831-5993933,Fragrance World Cherry Incense Acqua Pro...,25.81,-0.89,-9.88,6.57,21.61
+18/01/2025,Released,Order Payment,406-4832146-4040312,Fragrance World Cherry Incense Acqua Pro...,25.81,0,-13.12,9.67,22.36
+18/01/2025,Released,Order Payment,404-8708744-2323548,"Swiss Arabian Shaghaf Oud Azraq, Limited...",49.18,0,-13.67,10.82,46.33
+18/01/2025,Released,Order Payment,404-9053619-0945915,Spray Khamrah Qahwa 100 Ml,33.77,-1.63,-11.37,9.06,29.83
+18/01/2025,Released,Order Payment,171-8800535-4268326,Swiss Arabian Profumo Shagaf Oud Aswad -...,32.78,0,-7.8,18.21,43.19
+18/01/2025,Released,Order Payment,407-5643291-8983539,Paris Corner Taskeen Caramel Cascade Eau...,32.78,0,-14.93,7.21,25.06
+18/01/2025,Released,Order Payment,403-7557077-9435544,Fragrance World Cherry Incense Acqua Pro...,25.81,0,-9.88,5.68,21.61
+17/01/2025,Released,Order Payment,402-9583080-5373944,Fragrance World Cherry Incense Acqua Pro...,25.81,0,-9.88,5.68,21.61
+17/01/2025,Released,Order Payment,407-6737197-1440336,Spray Khamrah Qahwa 100 Ml,33.77,0,-11.37,0,22.4
+17/01/2025,Released,Order Payment,405-7522403-3049906,Spray Khamrah Qahwa 100 Ml,33.77,0,-11.37,7.43,29.83
+17/01/2025,Released,Order Payment,404-2538794-6392331,Paris Corner Taskeen Caramel Cascade Eau...,32.78,0,-14.93,7.21,25.06
+17/01/2025,Released,Order Payment,404-3338431-7337958,Spray Khamrah Qahwa 100 Ml,33.77,-3.27,-11.37,10.7,29.83
+17/01/2025,Released,Refund,408-9476643-6057912,Paris Corner Taskeen Caramel Cascade Eau...,-32.78,0,4.92,-7.21,-35.07
+17/01/2025,Released,Order Payment,402-7269966-4284338,Vaniglia Tobacco by Fragrance World for ...,32.78,0,-11.45,7.21,28.54
+17/01/2025,Released,Refund,408-6185656-2163534,Paris Corner Taskeen Caramel Cascade Eau...,-32.78,0,4.92,-7.21,-35.07
+17/01/2025,Released,Order Payment,406-9608963-1202757,Spray Khamrah Qahwa 100 Ml,33.77,-1.63,-11.37,9.06,29.83
+17/01/2025,Released,Order Payment,403-9042280-8483516,"Pear Potion, Eau de Parfum",28.69,0,-5.36,6.31,29.64
+17/01/2025,Released,Order Payment,403-3352156-0576345,Spray Khamrah Qahwa 100 Ml,33.77,0,-11.37,7.43,29.83
+17/01/2025,Released,Order Payment,405-7058677-4859511,Vaniglia Tobacco by Fragrance World for ...,32.78,-1.64,-11.45,8.85,28.54
+17/01/2025,Released,Order Payment,171-5321651-0167556,Spray Khamrah Qahwa 100 Ml,33.77,-1.64,-11.37,9.07,29.83
+17/01/2025,Released,Order Payment,402-1044350-9841167,Spray Ana Abiyedh 60 Ml,16.39,0,-7.55,3.61,12.45
+17/01/2025,Released,Order Payment,404-1167346-7866764,Spray Ana Abiyedh 60 Ml,32.78,0,-15.1,7.22,24.9
+16/01/2025,Released,Order Payment,403-2455622-9332316,Spray Khamrah Qahwa 100 Ml,33.77,-3.27,-11.37,10.7,29.83
+16/01/2025,Released,Order Payment,403-0116115-4221160,Ramadan24 Eternal Oud Eau de Parfum Latt...,42.95,0,-13.09,9.45,39.31
+16/01/2025,Released,Refund,403-0116115-4221160,Ramadan24 Eternal Oud Eau de Parfum Latt...,-42.95,0,6.45,-9.45,-45.95
+16/01/2025,Released,Refund,405-4485335-9417143,Spray Ana Abiyedh 60 Ml,-16.39,0,2.46,-3.61,-17.54
+16/01/2025,Released,Order Payment,171-3276689-6178769,"Swiss Arabian Shaghaf Oud Azraq, Limited...",49.18,0,-13.67,10.82,46.33
+16/01/2025,Released,Order Payment,406-0385839-4364349,Spray Khamrah Qahwa 100 Ml,33.77,0,-11.37,7.77,30.17
+16/01/2025,Released,Order Payment,405-4485335-9417143,Spray Ana Abiyedh 60 Ml,16.39,0,-7.55,3.61,12.45
+16/01/2025,Released,Order Payment,404-6612966-2525905,Spray Sheikh Al Shuyukh Luxe Edition 100...,20.49,0,-10.53,6.51,16.47
+16/01/2025,Released,Order Payment,408-6185656-2163534,Paris Corner Taskeen Caramel Cascade Eau...,32.78,0,-14.93,7.21,25.06
+16/01/2025,Released,Order Payment,402-4548740-1431526,Swiss Arabian Profumo Shagaf Oud Aswad -...,32.78,0,-7.8,18.21,43.19
+16/01/2025,Released,Order Payment,404-8938259-1704328,Spray Sheikh Al Shuyukh Luxe Edition 100...,20.49,-1.63,-8.9,6.14,16.1
+16/01/2025,Released,Order Payment,407-0734510-3793902,Spray Ana Abiyedh 60 Ml,16.39,0,-7.55,3.61,12.45
+16/01/2025,Released,Order Payment,403-4399160-1745148,Spray Khamrah Qahwa 100 Ml,33.77,-3.27,-11.37,10.7,29.83
+16/01/2025,Released,Order Payment,404-9030996-3947500,Spray Ana Abiyedh 60 Ml,16.39,0,-7.55,3.61,12.45
+16/01/2025,Released,Order Payment,403-3586615-9793125,Vaniglia Tobacco by Fragrance World for ...,32.78,0,-11.45,7.21,28.54
+16/01/2025,Released,Order Payment,402-9250750-7733104,Spray Ana Abiyedh 60 Ml,16.39,0,-7.55,3.61,12.45
+15/01/2025,Released,Order Payment,405-9939767-2435559,"Pear Potion, Eau de Parfum",28.69,0,-5.36,6.31,29.64
+15/01/2025,Released,Order Payment,406-0021673-6860353,"Swiss Arabian Shaghaf Oud Azraq, Limited...",49.18,-1.64,-13.67,12.46,46.33
+15/01/2025,Released,Order Payment,171-1580799-7457165,Paris Corner Taskeen Caramel Cascade Eau...,32.78,0,-14.93,7.21,25.06
+15/01/2025,Released,Order Payment,407-2180612-4185140,Paris Corner Taskeen Caramel Cascade Eau...,32.78,0,-14.93,7.21,25.06
+15/01/2025,Released,Order Payment,405-9052955-3700345,Spray Ana Abiyedh 60 Ml,16.39,0,-7.55,0,8.84
+15/01/2025,Released,Refund,406-4753844-9721142,Ramadan24 Eternal Oud Eau de Parfum Latt...,-42.95,1.63,6.45,-11.51,-46.38
+15/01/2025,Released,Service Fees,Yhp8JVOmgG,FBA Disposal Fee,0,0,-2.25,0,-2.25
+15/01/2025,Released,Order Payment,404-4047270-4035554,Spray Ana Abiyedh 60 Ml,16.39,0,-7.55,3.61,12.45
+14/01/2025,Released,Order Payment,404-6715922-3899502,Spray Ana Abiyedh 60 Ml,16.39,0,-7.55,3.61,12.45
+14/01/2025,Released,Order Payment,402-3872968-9140334,"Pear Potion, Eau de Parfum",28.69,0,-5.36,6.31,29.64
+14/01/2025,Released,Order Payment,404-4577061-1985149,Spray Yara 100ml,24.18,0,-9.85,5.32,19.65
+14/01/2025,Released,Order Payment,406-0469992-5237145,Fragrance World Cherry Incense Acqua Pro...,25.81,0,-10.14,5.68,21.35
+14/01/2025,Released,Inventory Reimbursement,404-8040495-5881967,FBA Inventory Reimbursement,0,0,0,21.71,21.71
+13/01/2025,Released,Refund,408-6922445-1389103,Spray Yara Moi 100 Ml,-21.84,1.09,3.28,-5.9,-23.37
+13/01/2025,Released,Order Payment,408-5158560-6253155,Spray Ana Abiyedh 60 Ml,16.39,0,-7.55,3.61,12.45
+13/01/2025,Released,Order Payment,171-4838248-6797910,Vaniglia Tobacco by Fragrance World for ...,32.78,0,-11.45,7.21,28.54
+13/01/2025,Released,Order Payment,403-4039917-3594766,Spray Sheikh Al Shuyukh Luxe Edition 100...,20.49,0,-12.14,8.5,16.85
+12/1/2025,Released,Order Payment,404-4125367-7146759,Paris Corner Taskeen Caramel Cascade Eau...,32.78,0,-14.93,7.21,25.06
+12/1/2025,Released,Order Payment,406-9894197-4501139,Paris Corner Taskeen Caramel Cascade Eau...,32.78,0,-14.93,7.21,25.06
+12/1/2025,Released,Order Payment,405-8686450-1749926,Fragrance World Cherry Incense Acqua Pro...,25.81,-1.63,-10.14,7.31,21.35
+12/1/2025,Released,Inventory Reimbursement,407-4414681-6689152,FBA Inventory Reimbursement,0,0,0,26.78,26.78
+12/1/2025,Released,Order Payment,404-1611486-1813145,Fragrance World Cherry Incense Acqua Pro...,25.81,0,-9.88,5.68,21.61
+12/1/2025,Released,Order Payment,404-6594454-5680300,Spray Ana Abiyedh 60 Ml,16.39,0,-7.55,3.61,12.45
+12/1/2025,Released,Order Payment,402-6140262-8424339,French Avenue Spicy Amber Eau De Parfum ...,32.78,0,-11.45,7.21,28.54
+12/1/2025,Released,Order Payment,405-8440344-1652308,Spray Ana Abiyedh 60 Ml,16.39,0,-7.55,3.61,12.45
+12/1/2025,Released,Order Payment,408-0764410-2481158,Khadlaj Hareem Al Sultan Gold - Olio Pro...,27.86,0,-12.17,6.13,21.82
+12/1/2025,Released,Order Payment,403-5009245-1683522,Spray Ana Abiyedh Poudree 60ml,20.48,0,-8.32,4.51,16.67
+12/1/2025,Released,Order Payment,403-0322088-9137106,Spray Yara Moi 100 Ml,22.02,0,-9.44,4.84,17.42
+12/1/2025,Released,Order Payment,404-8623149-3685919,Spray Ana Abiyedh 60 Ml,16.39,-1.09,-7.55,4.7,12.45
+12/1/2025,Released,Order Payment,403-2591171-2915532,Khadlaj Hareem Al Sultan Gold - Olio Pro...,27.86,0,-12.17,6.13,21.82
+12/1/2025,Released,Order Payment,405-9471736-4206732,Vaniglia Tobacco by Fragrance World for ...,32.78,0,-11.45,7.21,28.54
+11/1/2025,Released,Order Payment,404-1236648-0609123,"Eau de Parfum Opulent Musk, profumo unis...",18.85,0,-10.93,4.15,12.07
+11/1/2025,Released,Order Payment,408-1222460-4950743,Vaniglia Tobacco by Fragrance World for ...,32.78,-3.27,-11.45,10.48,28.54
+11/1/2025,Released,Order Payment,171-9157607-5809915,Spray Yara Moi 100 Ml,22.34,0,-9.5,4.92,17.76
+11/1/2025,Released,Order Payment,403-9545751-8824369,Spray Yara Moi 100 Ml,21.58,0,-9.36,4.75,16.97
+11/1/2025,Released,Order Payment,404-0358953-7619570,Spray Yara Moi 100 Ml,21.8,0,-9.4,4.79,17.19
+11/1/2025,Released,Order Payment,405-0271581-4025909,Oud Wonder - Eau de Parfum - By Fragranc...,32.78,0,-11.45,7.21,28.54
+11/1/2025,Released,Order Payment,407-4605820-6769966,Khadlaj Hareem Al Sultan Gold - Olio Pro...,27.86,0,-12.17,6.13,21.82
+11/1/2025,Released,Order Payment,402-7208446-8788307,Vaniglia Tobacco by Fragrance World for ...,32.78,0,-11.45,6.23,27.56
+11/1/2025,Released,Order Payment,403-5397537-6486749,Paris Corner Taskeen Caramel Cascade Eau...,32.78,0,-14.93,7.21,25.06
+11/1/2025,Released,Order Payment,404-5548590-1581168,Spray Asad 100 Ml,24.58,0,-13.64,9.1,20.04
+11/1/2025,Released,Order Payment,404-8133890-5297129,Spray Yara Moi 100 Ml,21.91,0,-12.77,8.81,17.95
+11/1/2025,Released,Order Payment,402-9310353-1125136,Spray Yara Moi 100 Ml,22.34,0,-9.5,4.91,17.75
+11/1/2025,Released,Order Payment,406-1480198-7046741,Spray Ana Abiyedh 60 Ml,16.39,0,-7.55,3.61,12.45
+10/1/2025,Released,Order Payment,408-4845978-4467542,Paris Corner Taskeen Caramel Cascade Eau...,32.78,0,-14.93,7.21,25.06
+10/1/2025,Released,Order Payment,405-8999073-7146744,Fragrance World Cherry Incense Acqua Pro...,25.81,-1.64,-10.14,7.32,21.35
+10/1/2025,Released,Order Payment,408-9513291-7165137,Spray Yara Moi 100 Ml,21.69,0,-9.38,4.77,17.08
+10/1/2025,Released,Order Payment,406-7269465-2765150,Spray Yara Moi 100 Ml,21.7,0,-9.38,4.77,17.09
+10/1/2025,Released,Order Payment,408-2459038-0788343,Spray Yara Moi 100 Ml,21.8,0,-9.4,4.79,17.19
+10/1/2025,Released,Refund,405-5904530-2813121,Fragrance World Cherry Incense Acqua Pro...,-25.81,0,3.87,-5.68,-27.62
+10/1/2025,Released,Order Payment,407-6971633-5673125,Spray Yara Moi 100 Ml,21.69,-1.09,-9.38,5.86,17.08
+9/1/2025,Released,Order Payment,405-5904530-2813121,Fragrance World Cherry Incense Acqua Pro...,25.81,0,-10.14,5.68,21.35
+9/1/2025,Released,Order Payment,402-1304649-3346717,Fragrance World Cherry Incense Acqua Pro...,25.81,-1.64,-9.88,7.32,21.61
+8/1/2025,Released,Order Payment,171-4838853-4453922,Spray Yara Moi 100 Ml,21.8,0,-9.4,4.79,17.19
+8/1/2025,Released,Refund,405-6343470-6535537,Spray Yara Moi 100 Ml,-21.59,1.64,3.24,-6.39,-23.1
+8/1/2025,Released,Order Payment,403-3361736-3126764,Khadlaj Hareem Al Sultan Gold - Olio Pro...,27.86,0,-12.17,6.13,21.82
+8/1/2025,Released,Order Payment,406-1942251-5085951,Spray Yara Moi 100 Ml,21.69,0,-9.38,4.77,17.08
